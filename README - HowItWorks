@@ -48,7 +48,7 @@ pythonowy.
 
 ------------------- HOW TO RUN -------------------
 
-Do działania kompilatora potrzebny jest .NET Core SDK (lub po prostu maszyna windowsowa)
+Do działania kompilatora potrzebny jest .NET Core SDK
 
 W pliku Program.cs ustawiamy odpowiednią ścieżkę do pliku źródłowego
 który ma być skompilowany.
