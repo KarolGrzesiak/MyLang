@@ -1,0 +1,43 @@
+{
+    var x = 2;
+    var y = 3;
+
+    function test(a, b){
+
+        if(a>b){
+            return a;
+        }
+        if(b>a){
+            return b;
+        }
+
+       if(a==b){
+        return 0;
+       }
+    }
+
+    function test2(c){
+        if (c!='test'){
+            print 'dziala';
+        }
+    }
+    function test3(){
+        print 'elo';
+    }
+
+    while(x<=y){
+        print test(x,y);
+        y=y-1;
+    }
+    var boolVar = true;
+    if(boolVar==true){
+        print boolVar;
+    }
+
+    test2(1);
+    test3();
+
+
+
+
+}
