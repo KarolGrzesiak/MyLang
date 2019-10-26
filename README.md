@@ -1,4 +1,4 @@
-# MyLang - PL Ver. - Simple school project
+# MyLang - [PL] - Simple school project
  
 ------------------- SCHEME OF COMPONENTS -------------------
 
