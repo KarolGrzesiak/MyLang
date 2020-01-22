@@ -1,11 +1,12 @@
-# MyLang - [PL] - Simple school project
+# MyLang 
+## Code is not pretty or clean by any means, that was a quick project for university class. Description is in Polish.
  
-------------------- SCHEME OF COMPONENTS -------------------
+------------------- Schemat -------------------
 
 
 ![alt text](http://www.plantuml.com/plantuml/png/JOy_2uD03CNtV8hWhX-WGx5qwDAXe9iuX9gfDWUv4_e7ltiZ8LHkoNllbpokpOMqBCyP94sCrOM5bKhI2h-0E9pDrH5jzFn6cbchBRFq93I_FmO0kkvw7ntkxYJofw_y2dJequDbX7LJiDg3g6gQu-um7d3933kZhhqdlDZnyx4GokZeQbac--WF)
 
-------------------- DESCRIPTION -------------------
+------------------- OPIS -------------------
 
 Lexer przy tworzeniu otrzymuję ścieżkę do pliku który trzeba skompilować.
 Poprzez wywołanie metody GetTokens() lexer klasyfikuje odpowiednie tokeny i zwraca
