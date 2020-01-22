@@ -31,7 +31,7 @@ w języku python - który można zapisać do pliku. Każda etykieta jest odczyty
 z wartością jaką ze sobą niesie i na tej podstawie tłumaczona jest na język
 pythonowy.
 
-------------------- HOW TO RUN -------------------
+------------------- Użycie -------------------
 
 Do działania kompilatora potrzebny jest .NET Core SDK
 
